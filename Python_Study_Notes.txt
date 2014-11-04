@@ -1,0 +1,7 @@
+https://github.com/TianHeYJB/Python_Study_Notes.git
+
+1.not关键字，优先级比or,and低
+not False or False 执行结果True
+相当于not (False or False)
+
+2.列表推导式——利用其他列表创建一个新列表
