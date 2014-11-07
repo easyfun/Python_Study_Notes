@@ -1,4 +1,4 @@
-https://github.com/TianHeYJB/Python_Study_Notes.git
+﻿https://github.com/TianHeYJB/Python_Study_Notes.git
 
 1.not关键字，优先级比or,and低
 not False or False 执行结果True
@@ -9,3 +9,5 @@ not False or False 执行结果True
 3.Python中变量都是对象，变量名相当于c/c++中指针的作用，del删除变量名，实际删除的不是内存中的对象，仅是变量名，同时内部对象引用计数减1，当应用计数减为0时，真正删除内存对象。
 
 变量名=None		也会删除变量名
+
+4.在Python中，类的定义也是执行代码块
