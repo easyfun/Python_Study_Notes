@@ -11,3 +11,5 @@ not False or False 执行结果True
 变量名=None		也会删除变量名
 
 4.在Python中，类的定义也是执行代码块
+
+5.在Python中，多态基于对象的行为，而不是父类（超类）
